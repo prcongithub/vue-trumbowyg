@@ -35,7 +35,7 @@
   },
   "dependencies": {
     "jquery": ">=1.8",
-    "trumbowyg": "^2.21.0"
+    "trumbowyg": "https://github.com/prcongithub/Trumbowyg.git#823aa2c6f0fd35776b31ce9e2935f7927e13fd05"
   },
   "devDependencies": {
     "@babel/core": "^7.10.4",
