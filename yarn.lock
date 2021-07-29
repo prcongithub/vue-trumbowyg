@@ -4984,9 +4984,9 @@ toidentifier@1.0.0:
   resolved "https://registry.yarnpkg.com/toidentifier/-/toidentifier-1.0.0.tgz#7e1be3470f1e77948bc43d94a3c8f4d7752ba553"
   integrity sha512-yaOH/Pk/VEhBWWTlhI+qXxDFXlejDGcQipMlyxda9nthulaxLZUNcUqFxokp0vcYnvteJln5FNQDRrxj3YcbVw==
 
-"trumbowyg@https://github.com/prcongithub/Trumbowyg.git#823aa2c6f0fd35776b31ce9e2935f7927e13fd05":
+"trumbowyg@https://github.com/prcongithub/Trumbowyg.git#bb4eccec7781b0ac79485d5fdc18111dcbc6e268":
   version "2.23.0"
-  resolved "https://github.com/prcongithub/Trumbowyg.git#823aa2c6f0fd35776b31ce9e2935f7927e13fd05"
+  resolved "https://github.com/prcongithub/Trumbowyg.git#bb4eccec7781b0ac79485d5fdc18111dcbc6e268"
 
 tslib@^1.10.0, tslib@^1.9.0:
   version "1.13.0"
